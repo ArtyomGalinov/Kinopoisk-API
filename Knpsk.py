@@ -3,7 +3,7 @@ import argparse
 from prettytable import PrettyTable
 from collections import namedtuple
 
-headers = {"X-API-KEY": '3846bfeb-da62-4483-8a15-54e946be87b2',
+headers = {"X-API-KEY": 'kinopoiskAPI_token',
            "Content-Type": "application/json"}
 
 
